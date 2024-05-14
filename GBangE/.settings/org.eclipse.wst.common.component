@@ -9,6 +9,7 @@
         <property name="java-output-path" value="/GBangE/src/main/webapp/WEB-INF/classes"/>
                 
         <property name="context-root" value="jsp"/>
+
             
     </wb-module>
     
